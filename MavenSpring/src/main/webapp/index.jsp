@@ -37,6 +37,9 @@ function selectDep(){
  
 </script> 
 <input type="button" onclick="selectDep();" value="hello"/>
-<table id="table" border="1px"></table>  
+<table id="table" border="5px">
+	<tr><td>姓名</td><td>部门</td><td>职位</td><tr>
+	<tr><td>张三</td><td>研发部</td><td>java开发工程师</td><tr>
+</table>  
 </body>  
 </html>  
